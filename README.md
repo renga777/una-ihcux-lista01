@@ -12,7 +12,7 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `echo`: Para escrever texto ou criar arquivos.
 
 ## 📸 Evidência de Execução
-![Foto do meu terminal](./lista1.png)
+![Foto do meu terminal](./LISTA1.png)
 
 ## 💻 Meu Hardware
 Processador(es):                           1 processador(es) instalado(s).
